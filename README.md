@@ -1,5 +1,4 @@
 # Memory-Manager
-README
 ======
 
 This package includes the following files.
